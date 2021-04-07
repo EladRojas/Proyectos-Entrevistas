@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\eladr\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\eladr\\.nuget\\packages"
+    ]
+  }
+}

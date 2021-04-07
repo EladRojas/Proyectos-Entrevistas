@@ -1,0 +1,13 @@
+D:\Eladio\Proyectos\PuntoTicket\ArbolFilogenetico\bin\Debug\netcoreapp3.1\ArbolFilogenetico.exe
+D:\Eladio\Proyectos\PuntoTicket\ArbolFilogenetico\bin\Debug\netcoreapp3.1\ArbolFilogenetico.deps.json
+D:\Eladio\Proyectos\PuntoTicket\ArbolFilogenetico\bin\Debug\netcoreapp3.1\ArbolFilogenetico.runtimeconfig.json
+D:\Eladio\Proyectos\PuntoTicket\ArbolFilogenetico\bin\Debug\netcoreapp3.1\ArbolFilogenetico.runtimeconfig.dev.json
+D:\Eladio\Proyectos\PuntoTicket\ArbolFilogenetico\bin\Debug\netcoreapp3.1\ArbolFilogenetico.dll
+D:\Eladio\Proyectos\PuntoTicket\ArbolFilogenetico\bin\Debug\netcoreapp3.1\ArbolFilogenetico.pdb
+D:\Eladio\Proyectos\PuntoTicket\ArbolFilogenetico\obj\Debug\netcoreapp3.1\ArbolFilogenetico.csprojAssemblyReference.cache
+D:\Eladio\Proyectos\PuntoTicket\ArbolFilogenetico\obj\Debug\netcoreapp3.1\ArbolFilogenetico.AssemblyInfoInputs.cache
+D:\Eladio\Proyectos\PuntoTicket\ArbolFilogenetico\obj\Debug\netcoreapp3.1\ArbolFilogenetico.AssemblyInfo.cs
+D:\Eladio\Proyectos\PuntoTicket\ArbolFilogenetico\obj\Debug\netcoreapp3.1\ArbolFilogenetico.csproj.CoreCompileInputs.cache
+D:\Eladio\Proyectos\PuntoTicket\ArbolFilogenetico\obj\Debug\netcoreapp3.1\ArbolFilogenetico.dll
+D:\Eladio\Proyectos\PuntoTicket\ArbolFilogenetico\obj\Debug\netcoreapp3.1\ArbolFilogenetico.pdb
+D:\Eladio\Proyectos\PuntoTicket\ArbolFilogenetico\obj\Debug\netcoreapp3.1\ArbolFilogenetico.genruntimeconfig.cache
